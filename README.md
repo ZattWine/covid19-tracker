@@ -1,19 +1,7 @@
-# covid-tracker
+# Covid-19 Tracker
 
-## Project setup
-```
-yarn install
-```
+Simple covid-19 tracker application using Vue.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+APIs powered by [https://covid19api.com/](https://covid19api.com/)
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
